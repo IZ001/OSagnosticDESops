@@ -1,7 +1,7 @@
 # OSagnosticDESops
 
 ## Irina:
-1. Install WSL for window:
+1. Install WSL for WindowS:
 https://medium.com/@japheth.yates/the-complete-wsl2-gui-setup-2582828f4577
 
 2. Download SageMath source:
@@ -10,9 +10,10 @@ https://mirror.dogado.de/sage/src/sage-9.1.tar.gz
 3. Follow "install from source" guide to install prerequisits
 https://doc.sagemath.org/html/en/installation/source.html
 
-4. Extract downloaded source
+4. Unpack the archive with downloaded source
 
-5. Follow steps from README.md, which is inside extracted source:
+5. Follow steps from README.md, which is inside the unpacked archive:
+  Run commands
   a. ./configure
   b. make
 
